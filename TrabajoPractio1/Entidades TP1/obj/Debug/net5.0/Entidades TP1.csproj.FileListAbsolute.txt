@@ -1,0 +1,12 @@
+D:\Martin\repos\TrabajoPractio1\Entidades TP1\bin\Debug\net5.0\Entidades TP1.deps.json
+D:\Martin\repos\TrabajoPractio1\Entidades TP1\bin\Debug\net5.0\Entidades TP1.dll
+D:\Martin\repos\TrabajoPractio1\Entidades TP1\bin\Debug\net5.0\Entidades TP1.pdb
+D:\Martin\repos\TrabajoPractio1\Entidades TP1\obj\Debug\net5.0\Entidades TP1.csproj.AssemblyReference.cache
+D:\Martin\repos\TrabajoPractio1\Entidades TP1\obj\Debug\net5.0\Entidades TP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\repos\TrabajoPractio1\Entidades TP1\obj\Debug\net5.0\Entidades TP1.AssemblyInfoInputs.cache
+D:\Martin\repos\TrabajoPractio1\Entidades TP1\obj\Debug\net5.0\Entidades TP1.AssemblyInfo.cs
+D:\Martin\repos\TrabajoPractio1\Entidades TP1\obj\Debug\net5.0\Entidades TP1.csproj.CoreCompileInputs.cache
+D:\Martin\repos\TrabajoPractio1\Entidades TP1\obj\Debug\net5.0\Entidades TP1.dll
+D:\Martin\repos\TrabajoPractio1\Entidades TP1\obj\Debug\net5.0\refint\Entidades TP1.dll
+D:\Martin\repos\TrabajoPractio1\Entidades TP1\obj\Debug\net5.0\Entidades TP1.pdb
+D:\Martin\repos\TrabajoPractio1\Entidades TP1\obj\Debug\net5.0\ref\Entidades TP1.dll
