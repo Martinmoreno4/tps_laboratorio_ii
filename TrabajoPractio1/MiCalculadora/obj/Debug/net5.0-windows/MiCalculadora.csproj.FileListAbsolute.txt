@@ -1,0 +1,21 @@
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.exe
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.deps.json
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.json
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.dev.json
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.dll
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.pdb
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\bin\Debug\net5.0-windows\Entidades TP1.dll
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\bin\Debug\net5.0-windows\Entidades TP1.pdb
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.AssemblyReference.cache
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.FormCalculadora.resources
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.GenerateResource.cache
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfoInputs.cache
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfo.cs
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CoreCompileInputs.cache
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CopyComplete
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.dll
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\obj\Debug\net5.0-windows\refint\MiCalculadora.dll
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.pdb
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.genruntimeconfig.cache
+D:\Martin\repos\TrabajoPractio1\MiCalculadora\obj\Debug\net5.0-windows\ref\MiCalculadora.dll
